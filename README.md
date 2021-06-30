@@ -1,2 +1,2 @@
-# test_task
-for UnionSolution company
+# code review
+as a part of interviewing process for UnionSolution company
